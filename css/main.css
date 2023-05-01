@@ -307,7 +307,7 @@ body.dark .search-field i{
 
     .logo-toggle .siderbarClose{
         color: var(--text-color);
-        font-size: 24px;
+        font-size: 35px;
         cursor: pointer;
     }
 
